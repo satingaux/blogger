@@ -14,4 +14,4 @@ mean stack code base
 
 * ## Hurray it's all done.
 * ### Have some doubt / problem.
-* # Contact me satingaux@gmail.com
+* # Say thanks satingaux@gmail.com
