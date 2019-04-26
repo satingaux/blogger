@@ -1,4 +1,4 @@
-:rocket: # blogger
+# :rocket: Blogger
 mean stack code base
 
  :octocat: Follow the steps to run the codebase
@@ -12,6 +12,6 @@ mean stack code base
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
 
-* Hurray it's all done.
-- [ ] Have some doubt / problem,
-- [x] Contact me satingaux@gmail.com
+* ## Hurray it's all done.
+* ### Have some doubt / problem.
+* # Contact me satingaux@gmail.com
